@@ -30,7 +30,7 @@ Here, I Set up professional profiles on GitHub, LinkedIn, and Kaggle. Each platf
 -> Task 3 – Coding & Collaboration Platforms (Module 3)
 
 Here, I completed the HackerEarth's beginner challenge, and also bulit an Digital Literacy Awareness Quiz using Google Forms. And also created an attached Google Sheets for the collcection of responses. The link to that is given below:-
-https://forms.gle/bok9RDXxzXLRNZLDA
+https://forms.gle/XpeAM7qdybgTdwh87
 
 -> Task 4 – Email Etiquette & Social Media Guide (Module 4)
 
@@ -44,9 +44,7 @@ Profile links:
 
 For GitHub: https://github.com/lav25bai11015-cmyk
 
-For LinkedIn: https://www.linkedin.com/in/lav-singh-gautam-4853993b9/
-
-For Kaggle: https://www.kaggle.com/lavsinghgautam
+For LinkedIn: www.linkedin.com/in/janamjay-gupta-b2174a367
 
 Some useful links:
 
